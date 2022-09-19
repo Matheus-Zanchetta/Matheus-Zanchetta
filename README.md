@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Donadel Zanchetta
 
 - 🔭 Hoje estou trabalhando na área de suporte técnico.
-- 🌱 Estudano Java
+- 🌱 Estudando Java
 - 😄 ele/dele
 
 <div align="center">
