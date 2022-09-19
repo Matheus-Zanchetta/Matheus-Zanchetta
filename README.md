@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Eu sou o Matheus Donadel Zanchetta
 
-<!--
-**Matheus-Zanchetta/Matheus-Zanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou trabalhando na área de suporte técnico.
+- 🌱 Estudano Java
+- 😄 ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Matheus-Zanchetta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Zanchetta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+##
+ <div>
+ <a href="https://www.instagram.com/m.zanchetta21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-donadel-zanchetta-a57057203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
