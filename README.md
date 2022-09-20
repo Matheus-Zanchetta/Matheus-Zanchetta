@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, Eu sou Matheus Donadel Zanchetta</h1>
  🔭 Estou trabalhando na empresa +A educação
 
- 📫 How to reach me **matheus-dz@hotmail.com**
+ 📫 Contate-me pelo e-mail: **matheus-dz@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
